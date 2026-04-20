@@ -1,0 +1,10 @@
+.DS_Store
+assets/**/.DS_Store
+
+# Original source media
+assets/**/*.png
+assets/**/*.jpg
+assets/**/*.jpeg
+assets/**/*.mp4
+assets/**/*.MP4
+assets/**/*.mov
